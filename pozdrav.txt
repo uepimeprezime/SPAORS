@@ -1,1 +1,1 @@
-Zdravo, svete!
+Hello, world!
