@@ -1,6 +1,5 @@
-//Metod koji racuna sumu.
 pubic int suma(int rezultat){
-  for (int i = 1; i < 10; i++){
+  for (int i = 1; i < =10; i++){
     rezultat = i;
   }
   return rezultat;
